@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavya-M-Patel
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m Node.JS devekoper
 - 📫 Email : bhavyampatel25@gmail.com
 
 <!---
